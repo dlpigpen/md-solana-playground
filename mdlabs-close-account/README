@@ -1,0 +1,4 @@
+yarn
+anchor build
+anchor test
+anchor test client
